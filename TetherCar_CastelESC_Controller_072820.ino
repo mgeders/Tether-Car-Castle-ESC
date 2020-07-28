@@ -6,7 +6,7 @@
 //However, for ease of programming, we just increment by 1 microsecond from 1300 to 1800 in the ramp up duration, thus making every 2nd increment actually being recognized by the ESC.
 //The fixed end points must be programmed into the ESC with their field programmer or computer based programmer.
 //
-//Matt Geders 02/28/19.  mgeders@gmail.com
+//Matt Geders 07/28/20.  mgeders@gmail.com
 //Not responsible if you blow something up.
 
 #include <Servo.h>                                // include an Adruino provided library that knows how to do servo stuff
