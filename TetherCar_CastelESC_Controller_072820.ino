@@ -8,6 +8,9 @@
 //
 //Matt Geders 07/28/20.  mgeders@gmail.com
 //Not responsible if you blow something up.
+//
+//As used in the current AMRCA record holding car "KISS Special" Class IX: Modern Nostalgia (A=.46, B=.61) 9AE: Electric 60 WH Walt Wilson 161.286 Castle 1515 And 9/12/2020
+
 
 #include <Servo.h>                                // include an Adruino provided library that knows how to do servo stuff
  
